@@ -1,0 +1,4 @@
+We focus on database driven web applications with this exercise that looks at polar bears in Alaska. 
+First, there is the use of a simple database, and loading data into that from a csv file. 
+Second, we also see how to connect, and retrieve data from the website to display on the pages. 
+Work through the exercise steps at https://github.com/scharlau/polar_bears_p 
